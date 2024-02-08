@@ -1,0 +1,2 @@
+x = "ROMR"
+print(x)
